@@ -2,7 +2,7 @@
 layout: default
 ---
 
-&nbsp; &nbsp;[research](./another-page.html) &nbsp; &nbsp; [pet projects](./another-page.html)&nbsp; &nbsp;[blog](./another-page.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[research](./another-page.html) &nbsp; &nbsp; &nbsp;[pet projects](./another-page.html)&nbsp; &nbsp;&nbsp;[blog](./another-page.html)
 
 * * *
 
