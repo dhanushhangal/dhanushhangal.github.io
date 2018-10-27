@@ -1,9 +1,3 @@
----
-layout: page
-title: research
-permalink: /research/
----
-
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [research](./publications.html) &nbsp; &nbsp; &nbsp; &nbsp; [conferences](./pet-projects.html) &nbsp; &nbsp; &nbsp; &nbsp; [foresting](./blog.html)
 
 * * *
