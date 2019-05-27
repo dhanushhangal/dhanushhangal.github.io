@@ -1,14 +1,14 @@
 ## Research
 
 * * *
-why
+
 Link to [resume]()
 
 ### Publications
 
-The CMS collaboration, Sirunyan, A.M. et al., [Jet properties in PbPb and pp collisions at √sNN=5.02 TeV](https://link.springer.com/article/10.1007%2FJHEP05%282018%29006), *J. High Energ. Phys. (2018) 2018: 6*
+The CMS collaboration, Sirunyan, A.M. et al., [Jet properties in PbPb and pp collisions at √s<sub>NN</sub>=5.02 TeV](https://link.springer.com/article/10.1007%2FJHEP05%282018%29006), *J. High Energ. Phys. (2018) 2018: 6*
 
-The CMS collaboration, Khachatryan, V. et al., [Decomposing transverse momentum balance contributions for quenched jets in PbPb collisions at √sNN=2.76 TeV](https://link.springer.com/article/10.1007%2FJHEP11%282016%29055), *J. High Energ. Phys. (2016) 2016: 55*
+The CMS collaboration, Khachatryan, V. et al., [Decomposing transverse momentum balance contributions for quenched jets in PbPb collisions at √s<sub>NN</sub>=2.76 TeV](https://link.springer.com/article/10.1007%2FJHEP11%282016%29055), *J. High Energ. Phys. (2016) 2016: 55*
 
 ### Conference Presentations
 
