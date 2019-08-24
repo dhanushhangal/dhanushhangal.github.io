@@ -1,12 +1,6 @@
-## Research
-
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [publications](./publications.html)
+## Publications
 
 * * *
-
-Link to [resume]()
-
-### Publications
 
 The CMS collaboration, Sirunyan, A.M. et al., [Jet properties in PbPb and pp collisions at √s<sub>NN</sub>=5.02 TeV](https://link.springer.com/article/10.1007%2FJHEP05%282018%29006), *J. High Energ. Phys. (2018) 2018: 6*
 
