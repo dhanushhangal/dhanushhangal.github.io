@@ -15,7 +15,7 @@ The CMS collaboration, Khachatryan, V. et al., [Decomposing transverse momentum 
 **D.A. Hangal** on behalf of the CMS collaboration  
 [Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/), *International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions, 2020*, Austin, Texas
 
-**D.A. Hangal** on behalf of the CMS collaboration
+**D.A. Hangal** on behalf of the CMS collaboration  
 [Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/), *Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions*, Wuhan, China
 
 **D.A. Hangal** on behalf of the CMS collaboration  
