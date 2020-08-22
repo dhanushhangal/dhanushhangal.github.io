@@ -13,13 +13,10 @@ The CMS collaboration, Khachatryan, V. et al., [Decomposing transverse momentum 
 ### Conference Presentations
 
 **D.A. Hangal** on behalf of the CMS collaboration  
-[Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/) 
-*International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions, 2020*, Austin, Texas
+[Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/), *International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions, 2020*, Austin, Texas
 
 **D.A. Hangal** on behalf of the CMS collaboration
-[Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/) 
-*Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions*, Wuhan, China
+[Studies of quark and gluon contributions to jets using jet charge measurements in pp and PbPb collisions](https://pos.sissa.it/345/007/), *Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions*, Wuhan, China
 
 **D.A. Hangal** on behalf of the CMS collaboration  
-[Probing properties of the QCD Medium using jet substructure techniques in pp and PbPb collisions at 5.02 TeV at CMS](https://pos.sissa.it/345/007/)  
-**Plenary speaker** at the *International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions, 2018*, Aix-les-Bains, France
+[Probing properties of the QCD Medium using jet substructure techniques in pp and PbPb collisions at 5.02 TeV at CMS](https://pos.sissa.it/345/007/), **Plenary speaker** at the *International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions, 2018*, Aix-les-Bains, France
